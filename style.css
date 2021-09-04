@@ -1,0 +1,42 @@
+.test-images{
+    width: 50px;
+    height: 50px;
+}
+body{
+    background-image: url("https://previews.123rf.com/images/ngonhan/ngonhan1302/ngonhan130200707/18010514-multi-color-hexagon-cubism-art-background.jpg");
+    background-position: center;
+    background-size: cover;
+    color: black;
+    font-family: 'Inconsolata', monospace;
+    padding-bottom: 100px;
+}
+.imgs{
+    border: 4px solid white;
+}
+#footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    background-color: teal;
+    text-align: center;
+    line-height: 3;
+    font-size: 25px;
+}
+.text_images_and_result{
+    background:white;
+    padding: 30px;
+    border-radius: 20px;
+    width: 50%;
+    display: inline-block;
+    box-shadow: 5px 5px 18px gray;
+}
+#conclusion{
+    background-image: url("https://cdn.nohat.cc/thumb/f/720/0413317939fd4a63978a.jpg");
+    width: 97%;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 10px;
+    color: white;
+    font-size:24px;
+}
